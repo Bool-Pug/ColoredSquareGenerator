@@ -10,7 +10,7 @@ old_pixels = pixels
 
 starttime = datetime.now()
 
-for i in range(200):
+for i in range(20):
     for x in range(width-1):
         for y in range(height):
 
