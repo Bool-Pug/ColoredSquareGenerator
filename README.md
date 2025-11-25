@@ -1,0 +1,1 @@
+The goal for this project is to try and recreate a very basic image generator that can make one of a few different colored squares by starting with a random pattern of noise and tweaking it a bit randomly, then repeating that until the desired result is acheived.
